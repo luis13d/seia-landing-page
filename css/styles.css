@@ -185,8 +185,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo img {
-    height: 70px;
-    width: auto;
+    height: 120px;
+    width: 400px;
 }
 
 .nav__list {
@@ -535,8 +535,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .testimonial-card__image {
-    width: 60px;
-    height: 60px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
     object-fit: cover;
 }
